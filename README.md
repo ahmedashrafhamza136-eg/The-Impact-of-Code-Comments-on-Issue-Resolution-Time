@@ -99,18 +99,12 @@ Pearson correlation with average issue resolution time (negative = more comments
 │   ├── Repositories/        # The 75 selected repositories (25 per language)
 │   ├── StatisticalAnalysis/ # Correlation Results and Regerssion Summary and Normality Tests
 │   └── ModelTraining/       # BERT Classification Report and Confusion Matrix
-├── src/
-│   ├── collect_data.py      # Issue, commit, and comment extraction scripts
-│   ├── evaluate_model.py    # BERT evaluation notebook
-│   ├── comments_analysis.py # Correlation, regression scripts
-│   └── analyze_comments.py  # Correlation, regression scripts
 ├── results_figures/         # Workflow diagrams, scatter plots, confusion matrix
 └── README.md
 ```
 
 * 📁 **Selected repositories:** The 75 repositories with stars, comment percentage, average days to close PR-related issues, share of issues resolved by PR, and total issues (retrieved February 2023).
 * 🔍 **Extracted data:** Issues, resolution times, modified classes, and comments per repository.
-* 🤖 **Classifier:** Training notebook and evaluation for the BERT model.
 * 📈 **Results:** Correlation and regression outputs, plus the scatter plots for all three languages.
 
 
@@ -151,3 +145,4 @@ If you use this dataset, classifier, or find this research helpful in your work,
 ## ⚖️ License
 
 The code and data in this repository are open-source under the terms of the MIT License.
+
