@@ -1,0 +1,6 @@
+class,total,pct_of_dataset,train,test
+Explanatory,5614,47.1,3930,1684
+Exploratory,4443,37.3,3110,1333
+Noise,1623,13.6,1136,487
+Evolutionary,242,2.0,169,73
+Total,11922,100.0,8345,3577

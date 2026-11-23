@@ -1,0 +1,8 @@
+class,precision_pct,recall_pct,f1_pct,support
+Evolutionary,92.54,84.93,88.57,73
+Explanatory,94.96,95.07,95.01,1684
+Exploratory,93.45,94.15,93.8,1333
+Noise,99.17,97.95,98.55,487
+Macro average,95.03,93.03,93.98,3577
+Weighted average,94.92,94.91,94.91,3577
+Accuracy,,,94.91,3577

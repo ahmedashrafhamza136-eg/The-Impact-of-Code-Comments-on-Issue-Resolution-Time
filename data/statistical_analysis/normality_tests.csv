@@ -1,0 +1,44 @@
+variable,language,test,alpha,critical_value,statistic,decision
+First experiment (all comments),Python,KS,0.05,0.26404,0.15255,Do not reject H0
+First experiment (all comments),Python,KS,0.02,0.29516,0.15255,Do not reject H0
+First experiment (all comments),Python,KS,0.01,0.31657,0.15255,Do not reject H0
+First experiment (all comments),Java,KS,0.05,0.26404,0.19924,Do not reject H0
+First experiment (all comments),Java,KS,0.02,0.29516,0.19924,Do not reject H0
+First experiment (all comments),Java,KS,0.01,0.31657,0.19924,Do not reject H0
+First experiment (all comments),C++,KS,0.05,0.26404,0.21511,Do not reject H0
+First experiment (all comments),C++,KS,0.02,0.29516,0.21511,Do not reject H0
+First experiment (all comments),C++,KS,0.01,0.31657,0.21511,Do not reject H0
+Explanatory,Python,KS,0.05,0.26404,0.27296,Reject H0
+Explanatory,Python,KS,0.02,0.29516,0.27296,Do not reject H0
+Explanatory,Python,KS,0.01,0.31657,0.27296,Do not reject H0
+Explanatory,Java,KS,0.02,0.29516,0.29071,Do not reject H0
+Explanatory,Java,KS,0.01,0.31657,0.29071,Do not reject H0
+Explanatory,C++,KS,0.02,0.29516,0.17606,Do not reject H0
+Explanatory,C++,KS,0.01,0.31657,0.17606,Do not reject H0
+Exploratory,Python,KS,0.05,0.26404,0.25855,Do not reject H0
+Exploratory,Python,KS,0.02,0.29516,0.25855,Do not reject H0
+Exploratory,Python,KS,0.01,0.31657,0.25855,Do not reject H0
+Exploratory,Java,KS,0.05,0.26404,0.19149,Do not reject H0
+Exploratory,Java,KS,0.02,0.29516,0.19149,Do not reject H0
+Exploratory,Java,KS,0.01,0.31657,0.19149,Do not reject H0
+Exploratory,C++,KS,0.05,0.26404,0.26007,Do not reject H0
+Exploratory,C++,KS,0.02,0.29516,0.26007,Do not reject H0
+Exploratory,C++,KS,0.01,0.31657,0.26007,Do not reject H0
+Evolutionary,Python,KS,0.05,0.26404,0.25855,Do not reject H0
+Evolutionary,Python,KS,0.02,0.29516,0.25855,Do not reject H0
+Evolutionary,Python,KS,0.01,0.31657,0.25855,Do not reject H0
+Evolutionary,Java,KS,0.05,0.26404,0.22713,Do not reject H0
+Evolutionary,Java,KS,0.02,0.29516,0.22713,Do not reject H0
+Evolutionary,Java,KS,0.01,0.31657,0.22713,Do not reject H0
+Evolutionary,C++,KS,0.05,0.26404,0.21665,Do not reject H0
+Evolutionary,C++,KS,0.02,0.29516,0.21665,Do not reject H0
+Evolutionary,C++,KS,0.01,0.31657,0.21665,Do not reject H0
+Noise,Python,AD,0.05,2.5018,3.1481,Reject H0
+Noise,Python,AD,0.02,3.2892,3.1481,Do not reject H0
+Noise,Python,AD,0.01,3.9074,3.1481,Do not reject H0
+Noise,Java,KS,0.05,0.26404,0.18183,Do not reject H0
+Noise,Java,KS,0.02,0.29516,0.18183,Do not reject H0
+Noise,Java,KS,0.01,0.31657,0.18183,Do not reject H0
+Noise,C++,KS,0.05,0.26404,0.23981,Do not reject H0
+Noise,C++,KS,0.02,0.29516,0.23981,Do not reject H0
+Noise,C++,KS,0.01,0.31657,0.23981,Do not reject H0

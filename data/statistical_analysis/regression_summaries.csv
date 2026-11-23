@@ -1,0 +1,16 @@
+model,language,coefficient,std_error,t_test_p_value,r_squared
+First experiment (all comments),C++,-541.737,146.723,0.001,0.372
+First experiment (all comments),Java,-331.978,156.022,0.044,0.164
+First experiment (all comments),Python,-644.157,449.682,0.165,0.082
+Explanatory,C++,-150.539,30.786,0.0,0.51
+Explanatory,Java,-121.159,37.243,0.004,0.315
+Explanatory,Python,-520.425,83.986,0.0,0.625
+Exploratory,C++,6.576,95.408,0.946,0.002
+Exploratory,Java,-255.41,700.2,0.719,0.006
+Exploratory,Python,732.564,87.032,0.0,0.755
+Evolutionary,C++,772.044,667.924,0.26,0.055
+Evolutionary,Java,488.239,146.372,0.003,0.326
+Evolutionary,Python,987.91,187.123,0.0,0.548
+Noise,C++,173.101,38.549,0.0,0.467
+Noise,Java,70.861,42.248,0.107,0.109
+Noise,Python,366.727,132.649,0.011,0.249

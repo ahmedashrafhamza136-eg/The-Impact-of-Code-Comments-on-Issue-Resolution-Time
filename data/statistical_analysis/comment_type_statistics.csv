@@ -1,0 +1,17 @@
+comment_type,language,n,mean,std_dev,min,max
+Explanatory,C++,25,0.8583,0.1134,0.5,0.99
+Explanatory,Java,25,0.7451,0.2063,0.3,0.97
+Explanatory,Python,25,0.8837,0.0726,0.63,0.98
+Explanatory,Total,75,0.829,0.1529,0.3,0.99
+Exploratory,C++,25,0.0522,0.0638,0.0,0.22
+Exploratory,Java,25,0.0141,0.0177,0.0,0.06
+Exploratory,Python,25,0.1033,0.0755,0.01,0.41
+Exploratory,Total,75,0.0565,0.068,0.0,0.41
+Evolutionary,C++,25,0.0229,0.0237,0.0,0.08
+Evolutionary,Java,25,0.0301,0.0634,0.0,0.29
+Evolutionary,Python,25,0.009,0.0091,0.0,0.04
+Evolutionary,Total,75,0.0207,0.0399,0.0,0.29
+Noise,C++,25,0.0676,0.1015,0.0,0.39
+Noise,Java,25,0.2164,0.2207,0.0,0.68
+Noise,Python,25,0.0086,0.0114,0.0,0.03
+Noise,Total,75,0.0975,0.1641,0.0,0.68

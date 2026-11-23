@@ -1,0 +1,26 @@
+id,repository,description,stars_k,comment_ratio,avg_days_to_close_pr_issues,pct_issues_resolved_by_pr,total_issues
+1,spring-boot,Popular framework for building Java applications with embedded servers.,74.1,0.512737,25.577282,2.24,34545
+2,guava,"Google core libraries for Java, including collections, caching, primitives, etc.",49.9,0.299451,157.30889,5.43,2928
+3,RxJava,Library for composing asynchronous and event-based programs using observable sequences for the JVM.,47.8,0.971468,29.583906,33.78,3075
+4,retrofit,Type-safe HTTP client for Android and Java.,42.9,0.560144,29.461869,9.73,2404
+5,jadx,Dex to Java decompiler.,40.5,0.874122,35.726661,15.78,1267
+6,dbeaver,Universal database tool and SQL client.,38.9,0.553005,36.036054,17.36,14850
+7,Stirling-PDF,PDF editing and merging tool for various use cases.,38.2,0.952522,4.16563,23.3,472
+8,arthas,Java diagnostic tool open-sourced by Alibaba.,35.2,0.895281,68.99517,5.45,1651
+9,zxing,Multi-format 1D/2D barcode image processing library.,32.6,0.702227,36.360101,3.8,1262
+10,selenium,Web browser automation framework.,30,0.794982,43.454474,8.81,10060
+11,spring-cloud-alibaba,Provides components for quickly building distributed systems with Spring Cloud.,27.7,0.379154,48.953333,15.63,1605
+12,gson,Java library to convert Java Objects into JSON and back.,23.2,0.870131,42.001049,18.71,1368
+13,redisson,"Redis Java client with features such as distributed locks, objects, and more.",23.1,0.817579,41.969187,3.51,4812
+14,Mindustry,Resource management strategy game,21.9,0.90906,2.477871,3.35,4383
+15,ExoPlayer,"An open-source, application-level media player for Android.",21.7,0.885933,25.462033,10.15,9461
+16,graal,"A polyglot virtual machine that supports multiple languages such as Java, JavaScript, and Ruby.",20.1,0.669683,32.110461,19.16,3486
+17,mybatis-3,SQL mapper framework for Java.,19.6,0.544262,85.526275,20.52,1072
+18,disruptor,High-performance inter-thread messaging library.,17.3,0.847659,7.878738,6.08,296
+19,antlr4,"Powerful parser generator for reading, processing, executing, or translating structured text or binary files.",16.8,0.910916,42.633133,28.34,1383
+20,Grasscutter,Private server software for an open-world RPG.,16.1,0.89128,5.710798,13.76,937
+21,caffeine,A high-performance caching library for Java.,15.6,0.550353,196,7.15,587
+22,mockito,Java library that allows for the creation of mock objects in automated unit tests.,14.8,0.961832,15.390785,36.92,1132
+23,bytecode-viewer,bytecode viewer that integrates several decompilers.,14.5,0.424241,50.119074,10.2,245
+24,tink,"A multi-language, cross-platform library providing cryptographic APIs.",13.5,0.944611,14.612745,7.85,369
+25,uCrop,Image cropping library for Android.,12.1,0.905303,37.577612,6.12,441

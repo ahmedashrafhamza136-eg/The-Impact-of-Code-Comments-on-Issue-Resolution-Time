@@ -1,0 +1,26 @@
+id,repository,description,stars_k,comment_ratio,avg_days_to_close_pr_issues,pct_issues_resolved_by_pr,total_issues
+1,transformers,"Natural language processing library for state-of-the-art models like BERT, GPT, etc.",126,0.2429,548.82,18,1144
+2,thefuck,Corrects errors in previous console commands.,83,0.45395,396.48,29.78,2623
+3,Django,High-level Python web framework for rapid development.,77,0.48018,304.33,16.88,6420
+4,fastapi,Fast web framework for building APIs with Python 3.7+ based on standard Python type hints.,71.4,0.40757,321.72,46.65,613
+5,keras,"Deep learning API, running on top of TensorFlow.",61,0.38187,322.61,27.87,1410
+6,scikit-learn,"Machine learning library for Python, built on NumPy, SciPy, and Matplotlib.",58.2,0.29045,371.25,48,1154
+7,requests,"Simple HTTP library for Python, designed for human beings.",51.4,0.25683,313.23,28.65,7532
+8,scrapy,Fast high-level web crawling and scraping framework for Python.,51,0.40765,62.29,31.2,2487
+9,rich,Python library for rich text and beautiful formatting in the terminal.,47.3,0.27533,113.79,4.46,4684
+10,cli,"Command-line HTTP client, user-friendly curl replacement.",32.1,0.50814,191.87,37,1440
+11,streamlit,Turns Python scripts into shareable web apps with minimal effort.,32,0.36649,72.76,3,4484
+12,certbot,Automatically enables HTTPS on websites using Let's Encrypt.,30.9,0.40126,13.59,43.75,4395
+13,fairseq,Sequence-to-sequence learning library for multilingual and multitask NLP.,29.3,0.44845,250.86,21.51,1376
+14,gradio,Easy-to-use UI components for machine learning models.,29.2,0.20567,355.13,36.86,830
+15,tqdm,"Fast, extensible progress bar for loops in Python.",27.5,0.31653,384.38,23.61,5975
+16,numpy,Fundamental package for scientific computing with Python.,26.5,0.19156,332.74,34.24,2368
+17,python-fire,Automatically generates CLI interfaces from any Python object.,25.8,0.26216,37.76,47.19,2261
+18,spleeter,"Music source separation tool, separates vocal and instrumental tracks.",25,0.25684,292.04,35.74,9701
+19,textual,A TUI (text user interface) framework for Python applications.,23.6,0.34674,516.35,9,11377
+20,kitty,"Fast, feature-rich, GPU-based terminal emulator.",22.1,0.3781,78.16,26.44,13132
+21,cookiecutter,A command-line utility that creates projects from project templates.,21.7,0.46448,289.14,51,9010
+22,tornado,"Scalable, non-blocking web server and web application framework for Python.",21.5,0.34398,443.91,19.91,3625
+23,dash,Analytical web applications without JavaScript.,20.6,0.34185,294.0,34.44,5000
+24,zipline,A Pythonic algorithmic trading library.,17.1,0.20866,992.87,26.18,466
+25,click,Python package for creating command-line interfaces.,15.1,0.24378,51.6,17.38,1064

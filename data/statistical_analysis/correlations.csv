@@ -1,0 +1,4 @@
+language,n_repos,exp1_all_comments,exp2_explanatory,exp2_exploratory,exp2_evolutionary,exp2_noise
+Python,25,-0.26,-0.77,0.86,0.73,0.38
+Java,25,-0.4,-0.56,-0.136,0.55,0.19
+C++,25,-0.61,-0.71,-0.131,0.18,0.6

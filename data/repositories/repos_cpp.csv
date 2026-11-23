@@ -1,0 +1,26 @@
+id,repository,description,stars_k,comment_ratio,avg_days_to_close_pr_issues,pct_issues_resolved_by_pr,total_issues
+1,llama.cpp,Port of Facebook's LLaMA model in C/C++,64.9,0.351773,83.33,37,2963
+2,tesseract,Tesseract Open Source OCR Engine (main repository),60.9,0.425877,106.01,14.84,2028
+3,x64dbg,An open-source x64/x32 debugger for Windows,44.3,0.100482,269.13,9.13,1871
+4,ImHex,"A Hex Editor for Reverse Engineers, Programmers, and people who value their eye sight when working with Hexadecimal data",42.8,0.194521,161.93,9,854
+5,whisper.cpp,Port of OpenAI's Whisper model in C/C++,34.4,0.158986,294.03,21.41,635
+6,googletest,GoogleTest - Google Testing and Mocking Framework,34.3,0.467252,103.17,13,1785
+7,carbon-lang,"Carbon Language's official repository, an experimental successor to C++",32.2,0.319128,99.55,53.65,492
+8,calculator,Windows Calculator app,29.5,0.176483,111.51,44.97,696
+9,aseprite,Animated sprite editor & pixel art tool,28.6,0.19644,161.52,7.15,2124
+10,facebook/folly,An open-source C++ library developed and used at Facebook,28.1,0.377687,82.57,15.5,450
+11,srs,Simple Realtime Server,25.3,0.282109,123.03,25.33,300
+12,flameshot,Powerful yet simple to use screenshot software,24.5,0.25682,243.3,23.33,1834
+13,spdlog,Fast C++ logging library,23.9,0.444255,13,10.11,425
+14,typesense,"A fast, typo-tolerant search engine for building delightful search experiences",20.4,0.136216,305.96,4,894
+15,btop,A monitor of resources,19.2,0.14477,124.63,26.11,291
+16,Catch2,"A modern, C++-native, test framework for unit-tests, TDD and BDD",18.5,0.172975,453.36,13.4,1492
+17,cocos2d-x,"Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world",18.1,0.164749,129.08,32.33,3557
+18,Sunshine,Open source game stream host for Moonlight,17.9,0.235017,121.64,34.4,686
+19,rpcs3,"The world's first free and open-source PlayStation 3 emulator/debugger, written in C++",15.2,0.14371,208.42,39.81,6827
+20,Stockfish,UCI chess engine,11.3,0.374511,129.17,22.85,910
+21,Open3D,Open3D: A Modern Library for 3D Data Processing from Intel labs,11.2,0.258752,249.95,23.33,2695
+22,olive,Free open-source non-linear video editor,8.1,0.329741,81.93,3,1711
+23,mamba,The Fast Cross-Platform Package Manager,6.7,0.151074,114.58,40.87,1189
+24,caffe,A fast open framework for deep learning,34,0.128911,300.25,16.54,3972
+25,cpprestsdk,The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design,8,0.349246,141.38,14,525
